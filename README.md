@@ -1,4 +1,4 @@
-👋 Hi, I’m @myselfalameen
+👋 Hi, I’m @alameen
 👀 I’m a graduate student in Quality Systems Engineering.
 🌱 I’m currently learning python programming language, SQL, Tableau and Machine Learning.
 💞️ I’m looking to collaborate on projects related to supply chain, global commerce, data acquisition related to renewable energy and sports team management.
