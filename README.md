@@ -1,7 +1,7 @@
-👋 Hi, I’m @alameen
-👀 I’m a graduate student in Quality Systems Engineering.
-🌱 I’m currently learning python programming language, SQL, Tableau and Machine Learning.
-💞️ I’m looking to collaborate on projects related to supply chain, global commerce, data acquisition related to sports team management.
+👋 Hi, I’m @myselfalameen
+👀 I am currently immersed in learning analytics and machine learning, driven by a passion to contribute to data-driven decision-making.
+🎯 I am actively seeking collaborative projects in machine learning. Simultaneously, I am cultivating skills to transition into a role as a logistics coordinator, aiming to handle diverse projects within the supply chain domain.
+⚽ My interest extends to exploring the dynamic intersection of data analytics in sports team management, with a focus on acquiring and leveraging data to enhance team performance and strategic decision-making.
 📫 How to reach me: alameen2309@gmail.com
 <!---
 myselfalameen/myselfalameen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
