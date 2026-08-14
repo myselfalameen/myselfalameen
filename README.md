@@ -1,7 +1,7 @@
 👋 Hi, I’m @myselfalameen
-👀 I am currently immersed in learning analytics and system simulation, driven by a passion to contribute to data-driven decision-making.
-🎯 I am actively seeking collaborative projects in system behaviour using tools like machine learning. Simultaneously, I am cultivating skills to transition into a role as a supply chain analyst, aiming to handle diverse projects within the industrial engineering domain.
-⚽ My interest extends to exploring the dynamic intersection of data analytics in operations management, with a focus on acquiring and leveraging data to enhance performance and strategic decision-making.
+👀 Engineering professional with hands-on experience in demand planning, pricing analysis, and ERP-driven procurement. 
+🎯 STEM graduate with a Master’s degree in Quality Systems Engineering from Concordia University, with expertise in leveraging ERP systems- (SAP, Microsoft Dynamics 365) , Microsoft Excel, and Power BI.
+⚽ Experienced in applying systems engineering principles, system modelling and simulation, systems analysis, operations research, Lean Six Sigma, FMEA, reliability engineering, and statistical analytics to evaluate complex systems, identify process bottlenecks, optimize system performance, and support data-driven engineering decisions.
 📫 How to reach me: alameen2309@gmail.com
 <!---
 myselfalameen/myselfalameen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
